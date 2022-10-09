@@ -8,7 +8,7 @@
 ▪ Personal Website : <a href="https://melodic-cat-268440.netlify.app">My_Portfolio</a>
 
 <h4>Languages and Tools</h4>
-<p><img src="https://img.icons8.com/color/2x/html-5.png" width="40" height="40"><img src="https://img.icons8.com/color/2x/css3.png" width="40" height="40"><img src="https://icons8.com/icon/106036/javascript-logo" width="40" height="40"><img src="https://icons8.com/icon/13679/java-coffee-cup-logo" width="40" height="40">
+<p><img src="https://img.icons8.com/color/2x/html-5.png" width="40" height="40"><img src="https://img.icons8.com/color/2x/css3.png" width="40" height="40"><img src="https://icons8.com/icon/PXTY4q2Sq2lG/javascript" width="40" height="40"><img src="https://icons8.com/icon/13679/java-coffee-cup-logo" width="40" height="40">
 <img src="https://icons8.com/icon/20906/git" width="40" height="40"><img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="40" height="40"></p>
 
 
