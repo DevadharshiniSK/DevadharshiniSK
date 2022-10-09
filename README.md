@@ -8,6 +8,6 @@
 ▪ Personal Website : <a href="https://melodic-cat-268440.netlify.app">My_Portfolio</a>
 
 <h4>Languages and Tools</h4>
-<p width="15" height="15"><img src="https://img.icons8.com/color/2x/html-5.png"><img src="https://img.icons8.com/color/2x/css3.png"></p>
+<p><img src="https://img.icons8.com/color/2x/html-5.png" width="15" height="15"><img src="https://img.icons8.com/color/2x/css3.png"></p>
 
 
