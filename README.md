@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Deva (Devadharshini S K)
 
 ### 🚀 Software Engineer | Frontend Developer  
-I'm a passionate Frontend Developer with 1+ years of experience building dynamic, responsive, and user-centric web applications using modern JavaScript frameworks and libraries. I specialize in creating scalable UI for SaaS platforms and love turning ideas into interactive user experiences.
+I'm a passionate Frontend Developer with around 2 years of experience building dynamic, responsive, and user-centric web applications using modern JavaScript frameworks and libraries. I specialize in creating scalable UI for SaaS platforms and love turning ideas into interactive user experiences.
 
 ---
 
