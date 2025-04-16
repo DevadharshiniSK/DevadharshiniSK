@@ -32,6 +32,5 @@ Built a Chrome extension UI to help users save, organize, and manage LinkedIn po
 
 ### 🌎 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/devadharshinisk43/)  
-- 🌐 [My Portfolio](https://melodic-cat-268440.netlify.app)  
 - 📬 devashanmugaraj43@gmail.com  
 
